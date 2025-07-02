@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/scanBarcodeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="会員証読み取り" />
+
+    <Button
+        android:id="@+id/NoticeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="お知らせの配信" />
+</LinearLayout>

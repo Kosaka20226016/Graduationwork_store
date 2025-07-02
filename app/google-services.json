@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "710696828591",
+    "firebase_url": "https://graduationwork-9b6a0-default-rtdb.firebaseio.com",
+    "project_id": "graduationwork-9b6a0",
+    "storage_bucket": "graduationwork-9b6a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710696828591:android:0f262665437db967a25e5a",
+        "android_client_info": {
+          "package_name": "jp.ac.nkc_cta09.graduationwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd61xG9ByYwyFA5tthbQsmwgDBnZd5W6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710696828591:android:53f90654290505b5a25e5a",
+        "android_client_info": {
+          "package_name": "jp.ac.nkc_cta09.graduationwork_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd61xG9ByYwyFA5tthbQsmwgDBnZd5W6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
